@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1713613879511,
+      "tag": "0000_dazzling_kid_colt",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1713614016432,
+      "tag": "0001_robust_impossible_man",
+      "breakpoints": true
+    }
+  ]
+}
